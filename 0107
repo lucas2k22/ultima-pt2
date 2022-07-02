@@ -1,0 +1,13 @@
+fun main (args: Array<String>) {
+  
+  println("10:")
+  val X:Int = readLine()!!.toInt()
+  val Y:Int = readLine()!!.toInt()
+  val Z:Int = readLine()!!.toInt()
+
+ 
+   //val soma: Int= X + Y + Z 
+
+   println("SOMA = "+ (X + Y+ Z))
+    
+    //fun soma(x: Int, y: Int, z: Int) : Int = x + y + z
